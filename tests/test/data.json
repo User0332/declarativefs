@@ -1,0 +1,14 @@
+{
+ "key": "value",
+ "num": 12,
+ "nested": {
+  "values": [
+   12,
+   6,
+   null,
+   false,
+   "hello"
+  ],
+  "true": false
+ }
+}
