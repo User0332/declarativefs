@@ -1,0 +1,21 @@
+[build-system]
+requires = [
+    "flit_core >=3.11,<4",
+]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "declarativefs"
+authors = [
+    { name = "Carl Furtado", email = "carlzfurtado@gmail.com" },
+]
+license = "MIT"
+license-files = [
+    "LICENSE",
+]
+dependencies = []
+description = ""
+version = "1.0.0"
+
+[project.urls]
+Home = "https://github.com/User0332/declarativefs"
